@@ -11,20 +11,20 @@ import eight from '../assets/svg/projects/eight.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Employee Management',
-        projectDesc: 'This project aims to build an employee management system that consolidates all information of a company',
-        tags: ['React', 'CSS', 'Material Ui'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        projectName: 'AI-Powered Healthcare Assistant',
+        projectDesc: 'A full-stack web application that uses AI to analyze symptoms, recommend specialists, and provide chatbot support. It features secure blockchain-based medical record storage, appointment scheduling, and real-time system analytics.',
+        tags: ['React', 'Javascript', 'Python(backend)','Machine Learning','NLP'],
+        code: 'https://github.com/James2239/AI-Powered-Healthcare-Assistant',
+        demo: '',
         image: one
     },
     {
         id: 2,
-        projectName: 'Railway Tracking',
+        projectName: 'UN-Habitant Projects Manager',
         projectDesc: 'This project is a railway tracking system that allows users to obtain relevant information about train timing.',
         tags: ['Django', 'Tailwind CSS'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        code: 'https://github.com/James2239/UN-Habitant-Project-Manger-App',
+        demo: '',
         image: two
     },
     {
