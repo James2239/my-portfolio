@@ -1,9 +1,9 @@
 export const achievementData = {
-    bio : "Putting quantified achievements on a resume is great, but I just don’t work with hard numbers. I have no data to support the quality of my work. If you have lots of relevant experience, the heading statement of your resume will be a summary.",
+    bio : "Built and deployed multiple full-stack applications integrating AI, data analytics, secure systems, and intuitive interfaces—demonstrating strong problem-solving skills, end-to-end development expertise, and the ability to deliver real-world tech solutions that improve efficiency and user experience.",
     achievements : [
         {
             id : 1,
-            title : 'Google Cloud certification',
+            title : 'CompTIA CSA+',
             details : 'Google Cloud certifications validate your expertise and showcase your ability to transform businesses with Google Cloud technology.',
             date : 'Aug 20, 2019',
             field : 'Automation',
