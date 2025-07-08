@@ -1,11 +1,11 @@
 export const blogData = [
     {
         id: 1,
-        title: 'SCRAPING BILLBOARD AND IMDB USING PYTHON SELENIUM',
-        description: 'Here we will use Selenium to navigate between web pages, and try to scrape data from them.',
-        date: 'Aug 7, 2020',
-        image: 'https://1.bp.blogspot.com/-6vZQoWcIZeo/Xvw5ZD5Y53I/AAAAAAAABgI/GH2b5OuMaXAKuigK4diBbeYDW6dD3qVvgCK4BGAsYHg/w400-h225/selenium.jpg',
-        url: 'https://hackzism.blogspot.com/2020/07/scraping-billboard-and-imdb-using.html'
+        title: 'Kali GPT: Revolutionizing Penetration Testing with AI on Kali Linux',
+        description: 'This blog explores the groundbreaking integration of Kali GPT—an AI assistant built on GPT-4—with Kali Linux. It highlights how the tool enhances penetration testing by accelerating workflows, simplifying complex tools, and making cybersecurity more accessible to professionals, students, and organizations alike. A must-read for those interested in the future of AI in ethical hacking.',
+        date: 'July 7, 2025',
+        image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_10HS7lPN4YCr2IuG1QmiOfc7mBj48SjXe781YRnA5gqZAWnf7qMi_DRCQQ4YQWkJ0ZDEsO3AbTUPgZPkMxVm6TityxqewEI6v9TDH2VrkC4ZqQSAWi_u6DSNPuknaRcC5HES5AW_9oJet4YHrOwPDMdQGbUAeCIZXftLlCTrdWEFU5BCCGEzARMpLiNM/w640-h278/kali-GPT.png',
+        url: 'https://aiinfosecjournal.blogspot.com/2025/07/kali-gpt-revolutionizing-penetration-testing.html'
     },
     {
         id: 2,
